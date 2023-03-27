@@ -4,4 +4,4 @@
 
 :bulb:Passionate about problem-solving and committed to continuous learning. 
 
-:rocket:With strong teamwork skills, I am eager to contribute to your projects and learn from experienced professionals.
+:rocket:With strong teamwork skills, I am eager to contribute to your projects and learn with experienced professionals.
