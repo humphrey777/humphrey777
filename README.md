@@ -1,7 +1,1 @@
-:train2:Self-driven and productive Software Development student at Vanier College.
-
-:card_index_dividers: Extensive experienced in Project/Data Management spanning 4 years. 
-
-:bulb: Passionate about problem-solving and committed to continuous learning. 
-
-:rocket: With solid teamwork skills, I am eager to contribute to your projects and learn with experienced professionals.
+Product Manager with 6+ years in e-commerce and tech. Expert in user growth and data-driven strategy, with extensive experience in promotional products on web and app platforms tailored to diverse user types. Proven success in enhancing key metrics and market-specific initiatives. Eager to apply my skills to your growing business.
