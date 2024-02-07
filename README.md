@@ -6,4 +6,6 @@
 
 🤝 Eager to contribute to innovative tech products with a keen sense for business insights.
 
-📫 Connect with me at: song.heping01@gmail.com
+📫 Connect with me at: song.heping01@gmail.com.
+
+💡 Visit my [website](https://songparker.github.io) to uncover more about my journey and interests.
